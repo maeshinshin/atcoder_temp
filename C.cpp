@@ -2,6 +2,17 @@
 #pragma GCC optimize("O3")
 #pragma GCC optimize("unroll-loops")
 
+#include <cmath>
+#include <functional>
+#include <string>
+#include <stack>
+#include <ctime>
+#include <queue>
+#include <map>
+#include <set>
+#include <tuple>
+#include <cassert>
+#include <bitset>
 #include <algorithm>
 #include <iostream>
 #include <vector>
