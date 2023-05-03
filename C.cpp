@@ -2,6 +2,7 @@
 #pragma GCC optimize("O3")
 #pragma GCC optimize("unroll-loops")
 
+#include <algorithm>
 #include <iostream>
 #include <vector>
 using namespace std;

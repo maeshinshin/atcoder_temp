@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <vector>
+#include <algorithm>
 using namespace std;
 using ull = unsigned long long;
 using ll = long long;
