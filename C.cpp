@@ -14,10 +14,12 @@
 #include <tuple>
 #include <cassert>
 #include <bitset>
-#include <algorithm>
 #include <iostream>
 #include <vector>
+#include <atcoder/all>
+#include <algorithm>
 using namespace std;
+using namespace atcoder;
 using ull = unsigned long long;
 using ll = long long;
 using vi = vector<int>;
